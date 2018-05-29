@@ -1,0 +1,8 @@
+[package]
+name = "eos"
+version = "0.1.0"
+authors = ["lsw骆仕文 <luosw@ctrip.com>"]
+[lib]
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+[dependencies]
